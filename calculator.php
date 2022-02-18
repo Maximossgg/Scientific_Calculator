@@ -148,7 +148,7 @@
 </body>
 <center>
 	<b>Note !!</b> When you use any function from Squareroot until 8to10, you need to use only the first input !!! either that you will not get any result from the second input.<br> <br>
-	Maximoss Copyright | 2021-2022
+	Maximossgg Copyright | 2021-2022
 </center>
 
 </html>
